@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧬 About Me:
 📓Estudante de Análise e Desenvolvimento de Sistemas<br>✒️Atualmente desenvolvendo meu TCC (Tell Me)<br>⌨️Linguagem que mais odeio: Java<br>☕Tomo qualquer tipo de café
 
 
