@@ -1,6 +1,8 @@
 <h1 align="center">Salve Cambada, Eu sou Enio Bristot Junior</h1>
 <h3 align="center">Programador Front-end e Mobile (tentando ser pelo menos)</h3>
 
+<br>
+
 - 📝 Estudante de gestão da tecnologia da informação
   
 - 🔭 Atualmente estou trabalhando em dormir 8 horas por noite
