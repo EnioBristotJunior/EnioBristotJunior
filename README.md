@@ -7,7 +7,7 @@
   
 - 🔭 Atualmente estou trabalhando em dormir 8 horas por noite
 
-- 🌱 Ultimamente estudando **React**
+- 🌱 Ultimamente estudando **Java**
 
 <!-- - ⚡ Fato engraçado sobre mim: **Minha vida** !-->
 
